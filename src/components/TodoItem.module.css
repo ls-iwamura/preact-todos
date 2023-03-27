@@ -1,0 +1,9 @@
+.todoItem {
+  display: flex;
+  gap: 10px;
+}
+
+.deleteButton {
+  background-color: transparent;
+  border: none;
+}
